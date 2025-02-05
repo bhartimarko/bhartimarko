@@ -1,11 +1,16 @@
 # Hi there, I'm Bharti Marko! 👋
 
-🌟 About Me
+# 🌟 About Me
 
-I'm a passionate Tech Explorer who loves diving into the world of technology and innovation. 
-Currently, I'm exploring JavaScript, HTML, CSS, React.js, and Data Structures & Algorithms (DSA) with Java. Additionally, I'm keenly learning about Generative AI and its applications.
+I'm a passionate Tech Explorer who loves diving into the world of technology and innovation.
 
-💡 What I Do
+# language and tool 
+   FRONTEND : HTML, CSS, Framework(Tailwind), JAVASCRIPT(JS), REACTJS, also TYPESCRIPT(TS).
+   BACKEND : Java (Spring Boot), Node.js (Express.js, Nest.js).
+   DATABASES : SQL Databases = MySQL.
+               NoSQL Databases = MongoDB
+
+# 💡 What I Do
 
 💻 Frontend Development: Crafting engaging and responsive web experiences.
 
@@ -17,7 +22,7 @@ Currently, I'm exploring JavaScript, HTML, CSS, React.js, and Data Structures & 
 
 🌍 Tech Contributor: Looking forward to contributing to open-source projects.
 
-🚀 Goals
+# 🚀 Goals
 
 Build and contribute to open-source projects.
 
@@ -25,7 +30,7 @@ Deepen my knowledge of AI and full-stack development.
 
 Connect with like-minded developers and tech enthusiasts.
 
-📫 Connect with Me
+# 📫 Connect with Me
 
 Let's collaborate and grow together! Feel free to connect with me on:
 
