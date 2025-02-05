@@ -5,9 +5,9 @@
 I'm a passionate Tech Explorer who loves diving into the world of technology and innovation.
 
 # language and tool 
-   FRONTEND : HTML, CSS, Framework(Tailwind), JAVASCRIPT(JS), REACTJS, also TYPESCRIPT(TS).
-   BACKEND : Java (Spring Boot), Node.js (Express.js, Nest.js).
-   DATABASES : SQL Databases = MySQL.
+   FRONTEND : HTML, CSS, Framework(Tailwind), JAVASCRIPT(JS), REACTJS, also TYPESCRIPT(TS).<br>
+   BACKEND : Java (Spring Boot), Node.js (Express.js, Nest.js).<br>
+   DATABASES : SQL Databases = MySQL.<br>
                NoSQL Databases = MongoDB
 
 # 💡 What I Do
