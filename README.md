@@ -32,7 +32,7 @@ Connect with like-minded developers and tech enthusiasts.
 
 # 📫 Connect with Me
 
-Let's collaborate and grow together! Feel free to connect with me on:
+Let's collaborate and grow together! you can connect with me on:
 
 Email : bhartimarko476@gmail.com
 
