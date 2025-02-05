@@ -1,4 +1,4 @@
-Hi there, I'm Bharti Marko! 👋
+# Hi there, I'm Bharti Marko! 👋
 
 🌟 About Me
 
@@ -33,7 +33,7 @@ Email : bhartimarko476@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/bharti-marko750
 
-Twitter/X: [Your Twitter/X Handle]
+Twitter/X: https://x.com/BhartiMark42799?t=iS7jkv-3JI8k7ofvk8P_Tw&s=09
 
 "Technology is best when it brings people together." ✨
 
