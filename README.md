@@ -1,4 +1,4 @@
-![logo](https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg)
+<img width="100%" height="200px" alt="coding" src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?cs=srgb&dl=pexels-harold-vasquez-853421-2653362.jpg&fm=jpg"> 
 <h1 align="center">Hi 👋, I'm Bharti Marko</h1>
 <h3 align="center">Exploring AI & Data Science with curiosity and passion.</h3>
 
