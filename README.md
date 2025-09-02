@@ -1,3 +1,4 @@
+![logo](https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg)
 <h1 align="center">Hi 👋, I'm Bharti Marko</h1>
 <h3 align="center">Exploring AI & Data Science with curiosity and passion.</h3>
 
