@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartimarko&label=Profile%20views&color=0e75b6&style=flat" alt="bhartimarko" /> </p>
 
-- 🔭 I’m currently working on [Customer-Churn-Prediction](https://github.com/bhartimarko/Customer-Churn-Prediction.git)
-
 - 🌱 I’m currently learning **Python(NumPy, Pandas, Matplotlib, Seaborn), Machine Learning(scikit-learn, basics of ML models), SQL & PostgreSQL, Data Visualization.**
 
 - 📫 How to reach me **bhartimarko476@gmail.com**
